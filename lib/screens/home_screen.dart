@@ -1,12 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kishor/components/SearchBar.dart';
+import 'package:mokshya/components/SearchBar.dart';
 import 'main_drawer.dart';
 
 class HomeScreen extends StatelessWidget {
   static const routename='/home';
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
       appBar:AppBar(
         title: Center(child: Text('Welcome to Mokshya Store'),),
@@ -22,7 +23,7 @@ class HomeScreen extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius:BorderRadius.circular(10),
               ),
-              child: Text("slkdfsnf")
+              child: Text("")
             ),
           ],
         ),

@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart'as http ;
 import 'dart:convert';
-import 'package:kishor/models/http_exception.dart';
-import 'package:kishor/screens/login_screen.dart';
+import 'package:mokshya/models/http_exception.dart';
+import 'package:mokshya/screens/login_screen.dart';
 
 class Authentication with ChangeNotifier
  {

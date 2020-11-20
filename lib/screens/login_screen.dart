@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:kishor/screens/home_screen.dart';
+import 'package:mokshya/screens/home_screen.dart';
 import 'signup_screen.dart';
 import 'package:provider/provider.dart';
-import 'package:kishor/models/authentication.dart';
+import 'package:mokshya/models/authentication.dart';
 import 'home_screen.dart';
 
 class LoginScreen extends StatefulWidget {

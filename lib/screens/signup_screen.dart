@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kishor/models/authentication.dart';
+import 'package:mokshya/models/authentication.dart';
 import 'package:provider/provider.dart';
 import 'login_screen.dart';
 
